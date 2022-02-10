@@ -1,0 +1,12 @@
+{ "todos":
+  [
+    {
+      "text": "aaa",
+      "done": true
+    },
+    {
+      "text": "bbb",
+      "done": false
+    }
+  ]
+}
